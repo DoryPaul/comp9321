@@ -1,0 +1,14 @@
+Frontend:
+React
+material ui
+
+API:
+flask
+flask_restplus
+
+Backend£º
+python 3
+pandas
+numpy
+sklearn
+matplotlib
